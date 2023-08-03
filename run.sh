@@ -1,0 +1,1 @@
+firebase emulators:start --export-on-exit=./users --import=./users --project demo-project
